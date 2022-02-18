@@ -1,0 +1,9 @@
+{
+	"ip":"frosetcraft.aternos.me",
+	"port": "51042",
+	"name": "bot5784874",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
